@@ -16,7 +16,6 @@ import androidx.compose.ui.draw.clip
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import com.google.android.material.color.MaterialColors
 import kr.co.batontouch.tutorial.ui.theme.TutorialTheme
 
 class MainActivity : ComponentActivity() {
@@ -55,10 +54,13 @@ fun MessageCard(msg: Message) {
 
             Spacer(modifier = Modifier.height(4.dp))
 
-            Text(
-                text = msg.body,
-                style = MaterialTheme.typography.body2
-            )
+            Surface(shape = MaterialTheme.shapes.medium, elevation = 1.dp) {
+                Text(
+                    text = msg.body,
+                    modifier = Modifier.padding(all = 4.dp),
+                    style = MaterialTheme.typography.body2
+                )
+            }
         }
     }
 }
