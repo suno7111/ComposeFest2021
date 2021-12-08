@@ -1,0 +1,2 @@
+kr/co/batontouch/layoutsinjetpack/BuildConfig.java
+ kr.co.batontouch.layoutsinjetpack.BuildConfig

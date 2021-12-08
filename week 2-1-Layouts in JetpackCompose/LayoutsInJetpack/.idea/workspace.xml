@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="56a80368-a5cd-4176-a738-f1d86b3f6444" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../AtfleeTest/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AtfleeTest/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AtfleeTest/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AtfleeTest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/kr/co/batontouch/layoutsinjetpack/FirstBaselineToTop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/kr/co/batontouch/layoutsinjetpack/LayoutsCodelab.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/kr/co/batontouch/layoutsinjetpack/List.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/kr/co/batontouch/layoutsinjetpack/Material.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/kr/co/batontouch/layoutsinjetpack/MyOwnColumn.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/kr/co/batontouch/layoutsinjetpack/PhotographerCard.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/kr/co/batontouch/layoutsinjetpack/TwoTexts.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject/app/src/main/java/com/example/testproject/CameraActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject/app/src/main/java/com/example/testproject/ConfirmationDialog.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject/app/src/main/java/com/example/testproject/Constants.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject/app/src/main/java/com/example/testproject/ImageUtils.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject/app/src/main/java/com/example/testproject/MainViewModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject/app/src/main/java/com/example/testproject/PosenetActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject/app/src/main/res/drawable-v24/action.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject/app/src/main/res/drawable-v24/ic_logo_keepfit_en.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject/app/src/main/res/drawable-v24/icn_chevron_down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject/app/src/main/res/drawable-v24/icn_chevron_up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject/app/src/main/res/drawable-v24/image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject/app/src/main/res/drawable-v24/tfl2_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject/app/src/main/res/drawable-v24/tfl2_logo_dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject/app/src/main/res/layout/tfe_pn_activity_camera.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject/app/src/main/res/layout/tfe_pn_activity_posenet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject/app/src/main/res/layout/tfe_pn_activity_test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject/app/src/main/res/mipmap-anydpi-v26/logo_keepfit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject/app/src/main/res/mipmap-hdpi/logo_keepfit_en.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject/app/src/main/res/mipmap-mdpi/logo_keepfit_en.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject/app/src/main/res/mipmap-xhdpi/logo_keepfit_en.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject/app/src/main/res/mipmap-xxhdpi/logo_keepfit_en.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject/app/src/main/res/mipmap-xxxhdpi/logo_keepfit_en.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sendbird-calls-android-master/.idea/sendbird-calls-android-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sendbird-videochat-android-master/.idea/sendbird-videochat-android-master.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[/Users/shj/.android/avd/8_Fold-out_API_30.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="21lMlKml9E0P2ie73XAEcQ48y2b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable" value="ALL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="LayoutsInJetpack.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56a80368-a5cd-4176-a738-f1d86b3f6444" name="Default Changelist" comment="" />
+      <created>1638511371468</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638511371468</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
