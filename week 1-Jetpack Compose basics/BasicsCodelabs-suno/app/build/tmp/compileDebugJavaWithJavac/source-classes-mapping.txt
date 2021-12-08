@@ -1,0 +1,2 @@
+kr/co/batontouch/basicscodelab/BuildConfig.java
+ kr.co.batontouch.basicscodelab.BuildConfig
